@@ -1,9 +1,9 @@
 ---
 layout: layouts/home.njk
-title: This cookbook belongs to
+title: "Este recetario es de: "
 authorInTitle: true
-metaTitle: Home
-highlightedTag: Favourite ⭐
-highlightedTitle: Some of my favourite recipes
-highlightedLinkText: All my favourite recipes
+metaTitle: Inicio
+highlightedTag: Favorito ⭐
+highlightedTitle: Algunas de mis recteas favoritas S
+highlightedLinkText: Todas mis recetas fabvoritas
 ---
