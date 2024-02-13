@@ -1,12 +1,12 @@
 {
-  "primaryColor": "#ffdb70",
+  "primaryColor": "#045b1d",
   "author": "Jon Koldo Arteaga",
-  "name": "My Online Cookbook",
-  "searchLabel": "Find recipes by name, tag or ingredients",
-  "servingsLabel": "servings",
-  "searchContainsLabel": "Contains",
-  "secondaryColor": "#32816e",
+  "name": "Mi recetario online",
+  "searchLabel": "Buscas recetas por nombre, etiqueta o ingredientes",
+  "servingsLabel": "platos",
+  "searchContainsLabel": "Contiene",
+  "secondaryColor": "#c32007",
   "ingredientsLabel": "Ingredientes",
-  "metaDescription": "The online cookbook of John Doe",
+  "metaDescription": "El recetario online de Jon Koldo",
   "baseURL": "https://myonlinecookbook.netlify.app"
 }
